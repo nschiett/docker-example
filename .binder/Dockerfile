@@ -1,6 +1,6 @@
 FROM username/docker-example
-LABEL maintainer="Author"
-LABEL email="author_email@email.com"
+LABEL maintainer="Nina M. D. Schiettekatte"
+LABEL email="nina.schiettekatte@gmail.com"
 
 # This file modified from
 # https://github.com/rocker-org/binder/blob/master/Dockerfile
