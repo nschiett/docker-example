@@ -3,6 +3,9 @@
 ![Open Source
 Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 
+test binder badge:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nschiett/docker-example/master)
+
 # Overview
 
 **Goal.** The goal of this tutorial is to make sure that you are able to
