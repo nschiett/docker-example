@@ -1,4 +1,4 @@
-FROM username/docker-example
+FROM nschiett/docker-example
 LABEL maintainer="Nina M. D. Schiettekatte"
 LABEL email="nina.schiettekatte@gmail.com"
 
