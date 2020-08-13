@@ -4,7 +4,7 @@
 Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 
 test binder badge:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nschiett/docker-example/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nschiett/docker-example/master?urlpath=rstudio)
 
 # Overview
 
